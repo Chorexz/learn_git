@@ -3,4 +3,4 @@ Git is a open-source software
 
 it is a trouble
 
-create a new branch is so fast
+create a new branch is so fast & simple
