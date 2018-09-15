@@ -1,3 +1,1 @@
-Git 笔记
-1.创建一个文件夹作为git仓库，cd到此目录，Git init初始化仓库，会创建.git隐藏目录
-2.git add filename(需要在仓库文件夹中)
+﻿Git 笔
