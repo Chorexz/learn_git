@@ -5,3 +5,5 @@ it is a trouble
 
 creating a new branch is so quick and simple
 
+a new branch called dev
+
